@@ -48,7 +48,7 @@ The dataset contains student profiles with the following columns:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/Admission_Prediction_using_Regression.git```
+git clone https://github.com/<your-username>/Admission_Prediction_using_Regression.git
 
 ### 2. Install dependencies
 
