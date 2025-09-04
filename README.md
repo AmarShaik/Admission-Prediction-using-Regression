@@ -51,9 +51,9 @@ The dataset contains student profiles with the following columns:
 git clone https://github.com/<your-username>/Admission_Prediction_using_Regression.git```
 
 ### 2. Install dependencies
-```bash
-pip install pandas numpy matplotlib scikit-learn```
+
+pip install pandas numpy matplotlib scikit-learn
 
 ### 3. Open the Jupyter Notebook
-```bash
-jupyter notebook Admission_Prediction_using_Regression.ipynb```
+
+jupyter notebook Admission_Prediction_using_Regression.ipynb
