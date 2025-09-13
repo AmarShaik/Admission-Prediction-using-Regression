@@ -5,13 +5,13 @@ It was created as part of a class exercise to understand how regression models w
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The goal of this project is to predict the **Chance of Admit** (between 0 and 1) based on various features such as GRE, TOEFL, CGPA, and more.  
 We use the **Admission_Predict_Ver1.1.csv** dataset and apply **Linear Regression** from scikit-learn.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 The dataset contains student profiles with the following columns:
 
 - **GRE Score** – Graduate Record Exam score (out of 340)  
@@ -25,7 +25,7 @@ The dataset contains student profiles with the following columns:
 
 ---
 
-## ⚙️ Steps in the Notebook
+##  Steps in the Notebook
 1. **Import Libraries** – pandas, numpy, matplotlib, scikit-learn  
 2. **Load Dataset** – `Admission_Predict_Ver1.1.csv`  
 3. **Data Cleaning** – Drop unnecessary columns (`Serial No.`)  
@@ -37,14 +37,14 @@ The dataset contains student profiles with the following columns:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 - Evaluation Metric: **R² Score**  
 - The scatter plot shows how close predictions are to the actual values.  
 - Higher R² means better accuracy.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone this repository
 ```bash
