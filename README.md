@@ -1,4 +1,4 @@
-# 🎓 Admission Prediction using Regression
+#Admission Prediction using Regression
 
 This project uses **Linear Regression** to predict the chances of a student’s admission into a university based on their academic profile.  
 It was created as part of a class exercise to understand how regression models work in machine learning.
